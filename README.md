@@ -16,7 +16,7 @@ The notebook (Cherokee_Boose_CNN_Full_Code_helmet.ipynb) includes:
 2/ Repository ContentsFile Description
 Cherokee_Boose_CNN_Full_Code_helmet.ipynb Main Jupyter notebook containing full analysis, model development, and evaluation.
 Cherokee_Boose_CNN_Full_Code_helmet.html Static HTML export for easy viewing of code, outputs, and visualizations.
-images_proj.npy NumPy array containing preprocessed image data.
+images_proj.npy NumPy array containing preprocessed image data. (Plese note: This file was too large to upload even compressed. If you would like to follow along, please messaqge me via LinkedIn profile at bottom of page)
 labels_proj.csv CSV file containing labels (1 = Helmet, 0 = No Helmet).
 requirements.txt Python dependencies (TensorFlow, NumPy, Matplotlib, Pandas, Scikit-learn).
 
