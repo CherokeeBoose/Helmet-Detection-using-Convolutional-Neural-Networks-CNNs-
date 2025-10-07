@@ -24,7 +24,7 @@ The notebook (Cherokee_Boose_CNN_Full_Code_helmet.ipynb) includes:
 | `labels_proj.csv` | CSV file containing labels (1 = Helmet, 0 = No Helmet) |
 | `requirements.txt` | Python dependencies (TensorFlow, NumPy, Matplotlib, Pandas, Scikit-learn) |
 
-*Note: This file was too large to upload even compressed. Please message via LinkedIn profile at bottom of page.
+*Note: images_proj.npy file was too large to upload even compressed.
 
 ## 3. Dataset Description
 * Total samples: 631 images
